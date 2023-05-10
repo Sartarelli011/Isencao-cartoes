@@ -55,7 +55,7 @@ cd Isencao-cartoes
 pip install -r requirements.txt
 
 #transformar o arquivo em executavel
-pyinstaller --onefie -w /caminho onde se encontra o arquivo/ Main.py
+pyinstaller --onefile -w /caminho onde se encontra o arquivo/ Main.py
 ```
 depois disso vai ser criado um diretório dist com o executavel dentro.
 
